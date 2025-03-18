@@ -1,0 +1,5 @@
+db.books.insertMany([
+	{'author': "Л.Н.Толстой", 'bookname': "Война и мир", 'godizd': 2021 },
+	{'author': "Н.В.Гоголь", 'bookname': "Мертвый души", 'godizd': 2022 },
+	{'author': "Марк Аврелий", 'bookname': "Размышления", 'godizd': 2023 },	
+])
